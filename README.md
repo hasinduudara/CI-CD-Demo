@@ -13,7 +13,7 @@ DEMO-1/
 │       └── main.yml   # GitHub Actions configuration (The Pipeline)
 ├── app.js             # Simple Node.js script to run and test
 └── README.md
-
+```
 ## 📂 Project Overview
 
 This project includes a basic Node.js script (`app.js`) and a GitHub Actions workflow (`.github/workflows/main.yml`).
